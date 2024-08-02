@@ -1,0 +1,25 @@
+anxiety: Total = 5, Count = 5, Average = 1.00
+anxiety Severity: None
+Explanation: No Explanation is necessary
+Suggestion: No Suggestion is necessary
+
+stress: Total = 20, Count = 5, Average = 4.00
+stress Severity: Moderate
+Explanation: Severe stress can lead to significant physical and emotional health problems. It often manifests through feelings of being overwhelmed, chronic irritability, and physical symptoms like headaches, stomach problems, and muscle tension.
+Suggestion: Advise time management strategies and possibly seeing a counselor.
+
+depression: Total = 15, Count = 5, Average = 3.00
+depression Severity: Mild
+Explanation: Depression involves persistent feelings of sadness, hopelessness, and a loss of interest in activities once enjoyed. Moderate depression can significantly impact daily functioning, causing difficulties in maintaining relationships.
+Suggestion: Encourage engaging in enjoyable activities and practicing gratitude.
+
+panic disorder: Total = 25, Count = 5, Average = 5.00
+panic disorder Severity: Severe
+Explanation: Panic disorder involves recurrent panic attacks characterized by sudden, intense fear and physical symptoms such as chest pain, heart palpitations, shortness of breath, dizziness, and nausea.
+Suggestion: Strongly advise consulting a mental health professional for a comprehensive treatment plan, possibly including medication.
+
+insomnia: Total = 10, Count = 5, Average = 2.00
+insomnia Severity: None
+Explanation: No Explanation is necessary
+Suggestion: No Suggestion is necessary
+
